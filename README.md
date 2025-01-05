@@ -1,1 +1,1 @@
-# SQL-script
+# SQL-scriptcourse work
